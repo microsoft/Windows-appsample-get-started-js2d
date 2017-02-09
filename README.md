@@ -33,7 +33,7 @@ The complete source code for the app is stored on [GitHub](https://github.com/Mi
 
 The simplest way to get started it to visit GitHub, click on the green **Clone or download** button, and select **Open in Visual Studio**. 
 
-![Cloning the repo](screenshots/step0.png)
+![Cloning the repo](screenshots/step0.PNG)
 
 You can also download the project as a zip file, or use any other standard ways to work with [GitHub projects](https://msdn.microsoft.com/en-us/windows/uwp/get-started/get-uwp-app-samples).
 
@@ -47,7 +47,7 @@ Now you can run the game!
 
 Press **F5** to start the app running. You should see a window open, and our familar dinosaur standing in an idyllic (if sparse) landscape. We will now examine the app, explain some important parts, and unlock the rest of the features as we go.
 
-![Just an every day dinosaur with a cat ninja on its back](screenshots/step1.png)
+![Just an every day dinosaur with a cat ninja on its back](screenshots/step1.PNG)
 
 **Note:** Something go wrong? Be sure you have installed Visual Studio with web support. You can check by creating a new project - if there is no support for JavaScript, you will need to re-install Visual Studio and check the *Microsoft Web Developer Tools* box.
 
