@@ -166,7 +166,7 @@ csx/
 ecf/
 rcf/
 
-# Windows Store app package directory
+# Microsoft Store app package directory
 AppPackages/
 BundleArtifacts/
 

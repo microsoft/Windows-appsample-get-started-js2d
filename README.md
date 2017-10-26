@@ -1,6 +1,6 @@
 # Get Started JavaScript 2D
 
-### A simple UWP game for the Windows Store, written in JavaScript and CreateJS
+### A simple UWP game for the Microsoft Store, written in JavaScript and CreateJS
 
 
 ![Walking Dino sprite sheet](screenshots/game.png)
@@ -8,13 +8,13 @@
 
 ## Introduction
 
-Publishing an app to the Windows Store means you can share it (or sell it!) with millions of people, on many different devices.  
+Publishing an app to the Microsoft Store means you can share it (or sell it!) with millions of people, on many different devices.  
 
-In order to publish your app to the Windows Store it must be written as a UWP (Universal Windows Platform) app. However the UWP is extremely flexible, and supports a wide variety of languages and frameworks. To prove the point, this sample is a simple game written in JavaScript, making use of several CreateJS libraries, and demonstrates how to draw sprites, create a game loop, support the keyboard and mouse, and adapt to different screen sizes.
+In order to publish your app to the Microsoft Store it must be written as a UWP (Universal Windows Platform) app. However the UWP is extremely flexible, and supports a wide variety of languages and frameworks. To prove the point, this sample is a simple game written in JavaScript, making use of several CreateJS libraries, and demonstrates how to draw sprites, create a game loop, support the keyboard and mouse, and adapt to different screen sizes.
 
 This project is built with JavaScript using Visual Studio. With some minor changes, it can also hosted on a website or adapted to other platforms. 
 
-**Note:** This is a not a complete (or good!) game; it is designed to demonstrate using JavaScript and a third party library to make an app ready to publish to the Windows Store.
+**Note:** This is a not a complete (or good!) game; it is designed to demonstrate using JavaScript and a third party library to make an app ready to publish to the Microsoft Store.
 
 
 ## Requirements
@@ -237,9 +237,9 @@ Just uncomment this line to call the function when the screen size event is fire
 
 If you run the app again, you should now be able to resize the window and get better results.
 
-## Publishing to the Windows Store
+## Publishing to the Microsoft Store
 
-Now you have a UWP app, it is possible to publish it to the Windows Store (assuming you have improved it first!) 
+Now you have a UWP app, it is possible to publish it to the Microsoft Store (assuming you have improved it first!) 
 
 There are a few steps to the process.
 
@@ -247,7 +247,7 @@ There are a few steps to the process.
 2. You must use the app submission [checklist](https://msdn.microsoft.com/windows/uwp/publish/app-submissions).
 3. The app must be submitted for [certification](https://msdn.microsoft.com/windows/uwp/publish/the-app-certification-process).
 
-For more details, see [Publishing your Windows Store app](https://developer.microsoft.com/en-us/store/publish-apps).
+For more details, see [Publishing your Microsoft Store app](https://developer.microsoft.com/en-us/store/publish-apps).
 
 ## Suggestions for other features.
 
