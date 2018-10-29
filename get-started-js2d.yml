@@ -1,0 +1,12 @@
+### YamlMime:Sample
+sample:
+- name: Get Started JavaScript 2D
+  description: A simple UWP game for the Microsoft Store, written in JavaScript and CreateJS.
+  image: screenshots/game.png
+  generateZip: true
+  author: GrantMeStrength
+  languages:
+  - javascript
+  technologies:
+  - windows
+  vssolution: GetStarted-JS2D.sln
