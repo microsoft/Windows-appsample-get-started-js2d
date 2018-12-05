@@ -4,17 +4,16 @@ languages:
 - javascript
 products:
 - windows
+- uwp
 statusNotificationTargets:
 - codefirst
 ---
 
 # Get Started JavaScript 2D
 
-### A simple UWP game for the Microsoft Store, written in JavaScript and CreateJS
-
+A simple UWP game for the Microsoft Store, written in JavaScript and CreateJS
 
 ![Walking Dino sprite sheet](screenshots/game.png)
-
 
 ## Introduction
 
