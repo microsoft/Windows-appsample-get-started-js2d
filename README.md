@@ -1,12 +1,12 @@
 ---
-topic: sample
+page_type: sample
 languages:
 - javascript
 products:
 - windows
 - windows-uwp
 statusNotificationTargets:
-- codefirst
+- codefirst@microsoft.com
 ---
 
 # Get Started JavaScript 2D
