@@ -119,7 +119,7 @@ Look through **main.js** until you find the **init()** function. This is called 
 
 Find the following code, and remove the comments (\\) from the line that references the cloud image.
 
-```
+```js
  manifest = [
 	    { src: "walkingDino-SpriteSheet.png", id: "dino" },
 		{ src: "barrel.png", id: "barrel" },
